@@ -1,3 +1,3 @@
-module github.com/ChrisTEKO/weather.git
+module github.com/ChrisTEKO/weather
 
 go 1.17
